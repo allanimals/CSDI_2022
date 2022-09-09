@@ -34,7 +34,7 @@ You can use the initial Grasshopper file to solve this task. However, if you use
 
 In the algorithm shown in tutorial 3, the magnitude of the loads is defined with a number slider. For this reason, this value is valid no matter where along the bridge deck this load is located. Find out how the magnitude of the loads can respond to the tributary areas, so that each cable supports its respective part of the bridge deck. The scheme below shows you how to calculate the tributary areas for the different cables. Consider a self-weight of 1kN/m2.&#x20;
 
-![](<../../.gitbook/assets/5 (1).png>)
+![](../../.gitbook/assets/5.png)
 
 {% hint style="warning" %}
 You can use the initial Grasshopper file to solve this task. However, if you use the Grasshopper definition that includes Tasks 1 and 2 you will get more interesting results.&#x20;
@@ -87,19 +87,19 @@ To solve Task 2 you only need to move the polo O' in the force diagram along the
 
 Task 3 asks you to consider the tributary areas, which affects the part 1.a. Input loads. In the initial Grasshopper definition, the magnitude of the loads is defined using a number slider that has nothing to do with the tributary areas. The solution shown below consists on measuring the distance of the part of the bridge that each anchor supports. As the area load of the bridge is 1kN/m2, we can directly use the numeric value of the distance as the load magnitude.
 
-![](../../.gitbook/assets/3.jpg)
+![](<../../.gitbook/assets/3 (2).jpg>)
 
 ### Task 4
 
 In Task 4 we must add two constraints to the force diagram to find a particular family of equilibrium solutions. The task asks you to find solutions in which the bar elements of the funicular aren't steeper than 60° and are only in tension.&#x20;
 
-![](../../.gitbook/assets/task4\_1.jpg)
+![](../../.gitbook/assets/4.jpg)
 
 #### First constraint
 
 If we study the solutions that we obtain in the initial Grasshopper definition, we observe that the steepest elements are always at the extremes of the funicular and that their geometry is fixed when the supports are defined. In order to solve this task, instead of defining the supports and reaction forces in the form diagram, you will do this using the force diagram. The sketch below shows how to do this. Once we find a possible solution in the force diagram we will construct the form diagram and find the position of the supports along the curves of the cliffs. &#x20;
 
-![](<../../.gitbook/assets/task4\_2 (3).png>)
+![](<../../.gitbook/assets/task4\_2 (4).png>)
 
 #### Second constraint
 

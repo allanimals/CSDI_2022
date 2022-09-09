@@ -8,7 +8,7 @@ For modules IV and V, we will be using Rhino 7 with two add-on packages of the [
 
 ![](../.gitbook/assets/course\_overview\_2021-01.png)
 
-{% content-ref url="compas-tools.md" %}
-[compas-tools.md](compas-tools.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 

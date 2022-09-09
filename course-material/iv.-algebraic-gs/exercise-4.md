@@ -24,7 +24,7 @@ Remember to save each subtask as an individual `.igs` with the function <img src
 
 In the first task we will study of the following truss bridge. It is composed of 21 internal edges and supports on both extremities. The total span is 18m. The initial design is presented in Figure 1. The structure is divided into 6 modules and has a structural height of 3 m.
 
-![FIgure 1: Geometry of the truss bridge to analyse with boundary conditions and loads applied.](<../../.gitbook/assets/image (91).png>)
+![FIgure 1: Geometry of the truss bridge to analyse with boundary conditions and loads applied.](<../../.gitbook/assets/image (243).png>)
 
 &#x20;Assume that:
 

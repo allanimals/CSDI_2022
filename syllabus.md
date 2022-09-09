@@ -45,7 +45,7 @@ The exercise (homework) for each module will be introduced and assigned at the b
 
 ## 4. Schedule
 
-![](.gitbook/assets/CSD1\_2021\_syllabus-01.png)
+<figure><img src=".gitbook/assets/CSDI_HS22_schedule.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 5. Evaluation
 

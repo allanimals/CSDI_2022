@@ -1,6 +1,6 @@
 # Lecture
 
-![](../../.gitbook/assets/CSD1\_2021\_lecture-1.jpg)
+![](<../../.gitbook/assets/CSD1\_2021\_lecture-1 (1).jpg>)
 
 In this first lecture, the participants will learn about:
 

@@ -9,8 +9,8 @@
 
 Click on "Tools" in the link below, and follow the instructions to install RV2 on your device.&#x20;
 
-{% content-ref url="../../../tools/compas-tools.md" %}
-[compas-tools.md](../../../tools/compas-tools.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Tutorial&#x20;

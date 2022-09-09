@@ -10,7 +10,7 @@ Please follow the file naming convention as shown in the [**Syllabus**](../../sy
 
 For each of the four tasks below, complete and submit a .rv2 file, as well as the completed PDF for the exercise.
 
-{% file src="../../.gitbook/assets/CSD1_2021_exercise-5_template (1).docx" %}
+{% file src="../../.gitbook/assets/CSD1_2021_exercise-5_template.docx" %}
 
 ## Task 1 - Modifying force diagram
 
@@ -108,7 +108,7 @@ For this task, save the result as `exercise-5_task3_Name.rv2` and submit it toge
 
 Pick the first letter of your name or last name and design a shell inspired by the shape of the letter using the command "Create pattern from Skeleton" (Fig.6). You are free to add features and customise your shell. As a mandatory requirement, the shell must be in horizontal and vertical equilibrium.
 
-![Shell with the shape of the letter A, created using "create pattern from skeleton".](<../../.gitbook/assets/image (322).png>)
+![Shell with the shape of the letter A, created using "create pattern from skeleton".](<../../.gitbook/assets/image (168).png>)
 
 {% hint style="info" %}
 For this fourth task, save the result as `exercise-5_task4_Name.rv2` and submit together with the completed .pdf template.

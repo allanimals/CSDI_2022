@@ -16,7 +16,7 @@ In this tutorial, participants will learn:
 
 Thus, **interactive drawings** enable exploring and understanding the relation of form and forces for various designs in a **playful manner** (see video below). **** More examples can be found on the [eQuilibrium](https://block.arch.ethz.ch/eq/drawing) platform.
 
-![eQuilibrium  |  Van Mele et al. 2009](<../../.gitbook/assets/intro\_gs\_interactive\_1\_video (1).mov>)
+![eQuilibrium  |  Van Mele et al. 2009](../../.gitbook/assets/intro\_gs\_interactive\_1\_video.mov)
 
 These **interactive drawings** can be constructed with two methods: either with **procedural geometric** construction or with **automated algebraic** construction. The latter will be subject to [session IV](../iv.-algebraic-gs/). And today, we will focus on the procedural geometric construction using **Grasshopper**. There, we basically follow the same logic as in the manual geometric construction but **parametric** to respond to changing input variables.&#x20;
 
@@ -30,11 +30,11 @@ In this tutorial, we will create an interactive form and force diagram of a brid
 
 These are the four possible bridge types with a single node:
 
-![](<../../.gitbook/assets/image (92).png>)
+![](<../../.gitbook/assets/image (170).png>)
 
 Basically, it all comes down to the four basic node types:
 
-![](<../../.gitbook/assets/image (219).png>)
+![](<../../.gitbook/assets/image (183).png>)
 
 More nodal configurations in a 2D space are not possible, however, they can have unlimited variations in the angles of the elements. But how can we explore these interactively?
 
@@ -129,7 +129,7 @@ By definition, the edge lines must be oriented **away** from the centre node!
 
 Now play with the position of the centre and support nodes and verify if the script works for all cases.
 
-![](<../../.gitbook/assets/2\_form diagram\_ (2).png>)
+![](<../../.gitbook/assets/2\_form diagram\_ (1) (1).png>)
 
 {% hint style="success" %}
 The edge lines of the form diagram represent the lines of action and can be converted to vectors.
@@ -264,7 +264,7 @@ We start displaying the force magnitude as text in the force diagram:
 2. For the text's location choose the midpoint of the edges using the `curve middle` component.&#x20;
 3. use the `text tag 3d` component to display as text the force magnitudes.&#x20;
 
-![](../../.gitbook/assets/5a\_vis\_text\_1\_.png)
+![](<../../.gitbook/assets/5a\_vis\_text\_1\_ (1).png>)
 
 You can either repeat exactly the same for the edges of the form diagram or use the tree datastructure:
 
@@ -307,7 +307,7 @@ Now your Grasshopper file should be completed. Play around with the input parame
 
 In case you could not follow, here is the completed Grasshopper definition. This should only serve as a reference if you want to look up things, but really try to **assemble it by yourself** to understand and practise! Otherwise the Exercise next week will be impossible to tackle.&#x20;
 
-{% file src="../../.gitbook/assets/gs_tut2_form to force.gh (1).zip" %}
+{% file src="../../.gitbook/assets/gs_tut2_form to force.gh.zip" %}
 Grasshopper completed!
 {% endfile %}
 

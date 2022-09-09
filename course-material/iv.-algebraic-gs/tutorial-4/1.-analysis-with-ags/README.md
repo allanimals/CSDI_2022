@@ -14,7 +14,7 @@ The following rules need to be observed to draw a form diagram representing the 
 
 The representation of structures in IGS requires that the **loads applied** and **reaction forces** are drawn as edges in the diagram. The following examples represent possible inputs for IGS. In these, the black edges represent the internal members of the structure. The loads applied are represented in green and the supports, or reaction forces, are drawn in blue. The edges representing loads and supports will be indifferent in IGS, these will be called **leaf edges** in the diagram.
 
-![](<../../../../.gitbook/assets/image (139).png>)
+![](<../../../../.gitbook/assets/image (231).png>)
 
 ### **1.2. Sign to applied loads.**
 
@@ -52,7 +52,7 @@ Click [here](1.1.-single-panel.md) for the full sigle panel truss tutorial.
 
 Now, let's follow together the examples of a more complex truss structure using IGS:
 
-![](<../../../../.gitbook/assets/image (179).png>)
+![](<../../../../.gitbook/assets/image (112).png>)
 
 Click [here](1.2.-complete-truss.md) for the full truss tutorial.
 
