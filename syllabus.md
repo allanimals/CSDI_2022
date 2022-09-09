@@ -93,4 +93,4 @@ Due to the hands-on, technical nature of the course's tutorial and exercises, [S
 
 ### Email
 
-In addition to Slack, directly emailing the lecturers or PhD instructors is, of course, also possible. The email addresses of the instructors can be found in the section [**Instructors**](instructors.md).
+For administrative-related questions, you can also e-mail us. You can find our email addresses [**here**](instructors.md).

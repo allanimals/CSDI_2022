@@ -10,7 +10,7 @@ This course presents new structural design opportunities that emerge when the in
 
 * **Name**: 063-0605-22L : Computational Structural Design I ([ETH course catalogue](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=164546\&semkez=2022W\&ansicht=LEHRVERANSTALTUNGEN\&lang=en))
 * **Semester**: Autumn Semester 2022
-* **Lecturer**: Dr. Lluis Enrique, Prof. Dr. Philippe Block
+* **Lecturer**: Dr. Lluis Enrique
 * **Date/time:** Fridays, 09:45 - 12:00&#x20;
 * **Location**: [HPT](http://www.mapsearch.ethz.ch/map/mapSearchPre.do?gebaeudeMap=HPT\&geschossMap=C\&raumMap=103\&farbcode=c010\&lang=en) [C 103](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HPT\&geschoss=C\&raumNr=103\&lang=en)
 * **Language of instruction**: English
