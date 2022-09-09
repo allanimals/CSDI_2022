@@ -52,7 +52,7 @@ Click [here](1.1.-single-panel.md) for the full sigle panel truss tutorial.
 
 Now, let's follow together the examples of a more complex truss structure using IGS:
 
-![](<../../../../.gitbook/assets/image (112).png>)
+![](<../../../../.gitbook/assets/image (112) (1).png>)
 
 Click [here](1.2.-complete-truss.md) for the full truss tutorial.
 
