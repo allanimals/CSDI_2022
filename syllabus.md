@@ -49,14 +49,12 @@ The exercise (homework) for each module will be introduced and assigned at the b
 
 ## 5. Evaluation
 
-### Grading
-
-The students will be evaluated based on the completion of 6 exercises (1 per module). There is no final exam or design project. Each exercise will be assigned at the beginning of each work session and will be due at the beginning of the next lecture. The final grade for the course will be the average grade of the 6 exercises.
+The students will be evaluated based on the completion of 6 exercises (introduction task + one exercise per module). There is no final exam. Each exercise will be assigned at the beginning of each work session and will be due at the beginning of the next lecture. The final grade for the course will be the average grade of the 6 exercises.
 
 {% hint style="danger" %}
 **Late submission will NOT be accepted.**
 
-In case of medical or family emergencies, please inform the instructors in advance.
+In case of medical or family emergencies that force a delay in your submission, you must show a medical report.
 {% endhint %}
 
 Each exercise will be evaluated based on two criteria:
