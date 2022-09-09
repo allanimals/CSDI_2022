@@ -4,8 +4,6 @@
 * [Syllabus](syllabus.md)
 * [Instructors](instructors.md)
 * [Tools](tools/README.md)
-  * [IV and V - COMPAS plugins](tools/compas-tools.md)
-  * [Installation issues](tools/installation-issues.md)
 * [Cite](cite.md)
 
 ## course material
