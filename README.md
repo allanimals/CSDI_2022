@@ -15,4 +15,4 @@ This course presents new structural design opportunities that emerge when graphi
 * **Location**: [HPT](http://www.mapsearch.ethz.ch/map/mapSearchPre.do?gebaeudeMap=HPT\&geschossMap=C\&raumMap=103\&farbcode=c010\&lang=en) [C 103](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HPT\&geschoss=C\&raumNr=103\&lang=en)
 * **Language of instruction**: English
 * **Periodicity**: yearly recurring
-* **Comment**: In order to participate in this course, it is recommended that the student has previously taken the courses Structural Design I and II.
+* **Comment**: In order to participate in this course, it is recommended that the student has previously taken the courses Structural Design I and II. You can find information and teaching materials about these courses [**here**](https://block.arch.ethz.ch/eq/course/4?lang=en).&#x20;
