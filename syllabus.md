@@ -2,18 +2,13 @@
 
 ## 1. Learning goals
 
-The main objective of this course is to explore new structural design opportunities that arise when graphic statics is combined with computational tools.
+At the conclusion of this course, participants will have:&#x20;
 
-After successfully completing the course, the students will be able to:
-
-1. Understand the fundamental principles of graphic statics.
-2. Demonstrate basic parametric thinking and modelling.
-3. Construct interactive graphic statics drawings using Rhino and Grasshopper.
-4. Develop topological thinking by using the datastructures of the COMPAS framework.
-5. Analyse trusses using Interactive Graphic Statics (IGS).
-6. Design, form find and analyse funicular shell structures using Thrust Network Analysis and RhinoVAULT 2 (RV2).
-7. Design, form find and analyse spatial structures using 3D Graphic Statics (3GS).
-8. Explore force-driven design methods using computational graphic statics.
+* Fundamental knowledge of graphic statics.
+* Basic parametric thinking and modelling with Rhinoceros and Grasshopper.&#x20;
+* Elementary skills in Python scripting.
+* Experience using computational tools based on graphic statics for the design and analysis of structures.&#x20;
+* Understanding of the potential of studying graphic statics using computational tools.
 
 ## 2. Course overview
 
@@ -33,7 +28,7 @@ Each module consists of three parts: a lecture, a tutorial, and a work session.
 
 ### Lecture
 
-Lectures will be 30-45 minute presentations given by one of the lecturers. It will introduce the main topic of the module, as well as the key concepts, theoretical background, and relevant examples and case studies. The lectures will be given in [HPT](http://www.mapsearch.ethz.ch/map/mapSearchPre.do?gebaeudeMap=HPT\&geschossMap=C\&raumMap=103\&farbcode=c010\&lang=en) [C 103](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HPT\&geschoss=C\&raumNr=103\&lang=en) and livestreamed. The lecture will be recorded and posted online after the lecture. For those attending the lectures remotely, questions can be posted in the Slack channel **#lectures**.
+Lectures will be 30-45 minute presentations introducing the main topic of the module, as well as the key concepts, theoretical background, and relevant examples and case studies. The lectures will be given in [HPT](http://www.mapsearch.ethz.ch/map/mapSearchPre.do?gebaeudeMap=HPT\&geschossMap=C\&raumMap=103\&farbcode=c010\&lang=en) [C 103](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HPT\&geschoss=C\&raumNr=103\&lang=en) and livestreamed. The lecture will be recorded and posted online after the lecture.
 
 ### Tutorial
 
