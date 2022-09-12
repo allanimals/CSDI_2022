@@ -24,7 +24,7 @@ The course is divided into 5 modules:
 
 ## 3. Class structure
 
-Each module consists of three parts: a lecture, a tutorial, and a work session.
+Each module consists of three parts: a lecture, a tutorial, and a work session.&#x20;
 
 ### Lecture
 
@@ -32,11 +32,17 @@ Lectures will be 30-45 minute presentations introducing the main topic of the mo
 
 ### Tutorial
 
-Tutorials are interactive, "follow-along" sessions that are intended to teach specific computational methods and tools, and the relevant technical knowledge. Each tutorial session (45 mins or 2x 45mins) will be led by one of the instructors, and the students are expected to follow along step by step and ask any questions as needed. The tutorials will take place in [HPT](http://www.mapsearch.ethz.ch/map/mapSearchPre.do?gebaeudeMap=HPT\&geschossMap=C\&raumMap=103\&farbcode=c010\&lang=en) [C 103](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HPT\&geschoss=C\&raumNr=103\&lang=en) and livestreamed. The tutorials will be recorded and posted online after the tutorial.&#x20;
+Tutorials are sessions that are intended to teach specific computational methods and tools. In the tutorials the students are expected to follow along step by step. The tutorials will take place in [HPT](http://www.mapsearch.ethz.ch/map/mapSearchPre.do?gebaeudeMap=HPT\&geschossMap=C\&raumMap=103\&farbcode=c010\&lang=en) [C 103](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HPT\&geschoss=C\&raumNr=103\&lang=en) and livestreamed. The tutorials will be recorded and posted online after the tutorial.&#x20;
 
 ### Work session
 
-The exercise (homework) for each module will be introduced and assigned at the beginning of each work session. Work sessions provide an opportunity for the students to start working on the exercises during class hours. All PhD instructors will be present during the work sessions to provide technical support or consultations. Students are expected to be present during the work sessions and are strongly encouraged to work on the exercise and engage with the instructors and other students. The work sessions will take place in  [HPT](http://www.mapsearch.ethz.ch/map/mapSearchPre.do?gebaeudeMap=HPT\&geschossMap=C\&raumMap=103\&farbcode=c010\&lang=en) [C 103](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HPT\&geschoss=C\&raumNr=103\&lang=en).&#x20;
+The exercise for each module will be introduced and assigned at the beginning of each work session. Work sessions provide an opportunity for the students to start working on the exercises during class hours. The course instructors will be present during the work sessions in order to assist the students with any question they may have. Students are expected to be present during the work sessions and are strongly encouraged to work on the exercise and engage with the instructors and other students. The work sessions will take place in  [HPT](http://www.mapsearch.ethz.ch/map/mapSearchPre.do?gebaeudeMap=HPT\&geschossMap=C\&raumMap=103\&farbcode=c010\&lang=en) [C 103](http://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HPT\&geschoss=C\&raumNr=103\&lang=en).&#x20;
+
+{% hint style="warning" %}
+**IMPORTANT:**
+
+This course is conceived to take place in the classroom, where interaction between instructor/student and student/student can easily take place. This course is not meant as an online course. While we are offering the recordings of both lectures and tutorials as well as an online communication channel, these are meant as support and not as the main teaching materials. The students are requested to be present during lectures, tutorials and work sessions.
+{% endhint %}
 
 ## 4. Schedule
 
