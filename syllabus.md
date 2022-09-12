@@ -2,13 +2,18 @@
 
 ## 1. Learning goals
 
-At the conclusion of this course, participants will have:&#x20;
+The main objective of this course is to explore new structural design opportunities that arise when graphic statics is combined with computational tools.
 
-* Fundamental knowledge of graphic statics.
-* Basic parametric thinking and modelling with Rhinoceros and Grasshopper.&#x20;
-* Elementary skills in Python scripting.
-* Experience using computational tools based on graphic statics for the design and analysis of structures.&#x20;
-* Understanding of the potential of studying graphic statics using computational tools.
+After successfully completing the course, the students will be able to:
+
+1. Understand the fundamental principles of graphic statics.
+2. Demonstrate basic parametric thinking and modelling.
+3. Construct interactive graphic statics drawings using Rhino and Grasshopper.
+4. Develop topological thinking by using the datastructures of the COMPAS framework.
+5. Analyse trusses using Interactive Graphic Statics (IGS).
+6. Design, form find and analyse funicular shell structures using Thrust Network Analysis and RhinoVAULT 2 (RV2).
+7. Design, form find and analyse spatial structures using 3D Graphic Statics (3GS).
+8. Explore force-driven design methods using computational graphic statics.
 
 ## 2. Course overview
 
