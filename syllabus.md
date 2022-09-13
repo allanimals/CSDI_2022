@@ -24,7 +24,7 @@ The course is divided into 5 modules:
 
 ## 3. Class structure
 
-Each module consists of three parts: a lecture, a tutorial, and a work session. All will take place in HPT C 103.&#x20;
+Each module consists of three parts: a lecture, a tutorial, and a work session.
 
 ### Lecture
 
