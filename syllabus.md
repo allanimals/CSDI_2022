@@ -50,7 +50,7 @@ This course is conceived to take place in the classroom, where interaction betwe
 
 ## 5. Evaluation
 
-The students will be evaluated based on the completion of 6 exercises (introduction task + one exercise per module). There is no final exam. Each exercise will be assigned at the beginning of each work session and will be due at the beginning of the next lecture. The final grade for the course will be the average grade of the 6 exercises.
+The students will be evaluated based on the completion of 5 exercises. There is no final exam. Each exercise will be assigned at the beginning of each work session and will be due at the beginning of the next lecture.
 
 {% hint style="danger" %}
 **Late submission will NOT be accepted.**
@@ -60,7 +60,7 @@ In case of medical or family emergencies that force a delay in your submission, 
 
 Each exercise will be evaluated based on two criteria:
 
-**1. Completeness of the computational task** - **** For each task of the exercise, completed and working Rhino files and also supporting Grasshopper files must be submitted. &#x20;
+**1. Complete solution** - **** For each task of the exercise, completed and working Rhino files and also supporting Grasshopper files must be submitted. &#x20;
 
 **2. Communicating the process and results with clarity** - In computational research, communicating one's abstract ideas, technical procedures/approach and results are just as important as the research itself. For each exercise, the files mentioned above should be accompanied by a document (using the template provided, for each exercise), which answers the questions of the exercises and include any additional comments or remarks. The questions need to be answered with clear writing and supported by images, screenshots, hand sketches, or any other additional material.&#x20;
 
@@ -72,18 +72,13 @@ For each exercise, the students will be asked to submit a zipped folder that con
 2. a PDF summarizing and presenting the results of the exercise, through text and images
 
 {% hint style="info" %}
-#### File naming convention
+#### File naming convention: module\_task\_firstname-lastname.extension
 
-exercise-number\_item-number\_firstname-lastname.extension
+Example:&#x20;
 
-* exercise-1\_jane\_smith.zip
-  * exercise-1\_task-1\_jane-smith.3dm
-  * exercise-1\_task-1\_jane-smith.gh
-  * exercise-1\_jane-smith.pdf
-  * exercise-1\_task-2\_jane-smith.3dm
-  * exercise-1\_task-2\_jane-smith.ags
-  * ...
-  *
+* I\_1\_jane-smith.3dm
+* I\_1\_jane-smith.gh
+* I\_1\_jane-smith.pdf
 {% endhint %}
 
 ## 6. Communication
