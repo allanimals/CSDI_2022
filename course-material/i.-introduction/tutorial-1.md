@@ -4,36 +4,36 @@
 
 In this tutorial, participants will learn:
 
-* Basic parametric thinking and modelling with Rhino and Grasshopper
-* The structure and organization of UI of Rhino and Grasshopper
-* Overview of the basic components in Grasshopper
-* How to assemble components together in Grasshopper to execute simple operations
-* Vector-based geometric operations
-* Introduction of data structures and management in Grasshopper (tree)
+* Basic parametric thinking and modelling with Rhinoceros and Grasshopper.
+* The structure and organization of the user interface of Rhino and Grasshopper.
+* The most elementary components in Grasshopper and how to assemble them to execute simple algorithms.
+* The most common data structures in Grasshopper.&#x20;
 
 ## 1. Application Interface
 
-**Grasshopper** is a **visual algorithm** editor that is integrated into the Rhino **3D-modelling environment**. It allows to set up parametric models intuitively and visually. &#x20;
+Grasshopper is a visual programming language that runs within the Rhinoceros 3D computer-aided design (CAD) application. It allows to set up parametric models in an intuitive and visual way.
 
-Let's get started: open **Rhinoceros 6** on **Windows** and Grasshopper. To launch Grasshopper, either type in the Rhino command prompt `Grasshopper` or navigate in the _**Standard toolbar**_ to the _**Grasshopper icon**_.&#x20;
+Let's get started: open Rhinoceros 7 on Windows and Grasshopper. To launch Grasshopper, either type `Grasshopper` in the Rhino command prompt or navigate in the Standard toolbar to the Grasshopper __ icon.
 
 ![](<../../.gitbook/assets/image (208).png>)
 
-In Grasshopper, the visual algorithms can be built by connecting **components** with **wires** on the _**Grasshopper canvas**_. If the components contain geometric information, they are **previewed** in the _**Rhino Viewport**,_ thus both, Rhino and Grasshopper, always work in parallel.
+In Grasshopper, algorithms can be built by connecting components with wires on the Grasshopper canvas. **** If the components contain geometric information, they are previewed in the Rhino Viewport, thus both, Rhino and Grasshopper, always work in parallel.
 
 ![](<../../.gitbook/assets/image (391).png>)
 
-Besides the _Grasshopper canvas_ that serves as the **work area**, the Grasshopper window also contains the _canvas toolbar_  for **display options** and the _component panels_ for **accessing** all the components. The components are organised in several tabs and the core Grasshopper components are shown here for overview:
+Besides the Grasshopper canvas that serves as the work area, the Grasshopper window also contains the canvas toolbar for display options and the component panels for accessing all the components. The components are organized in several tabs. In the image below the core Grasshopper components are shown.&#x20;
 
 ![](<../../.gitbook/assets/image (211).png>)
 
-To **add a component** to the _canvas,_ navigate to it in the _component panels_ and `drag` it onto the _canvas_. Alternatively, for a **fast search**, `double-click` or hit `space` on the canvas and search for its name. To **determine the location** of an already placed component in the component panels, hold `ctrl+alt` (or `cmd + option`on Mac), thus the location will be indicated by a red circle. This is useful if you wish to explore similar or related components.
+To add a component to the canvas, drag onto the canvas the component from the component panel. Alternatively, for a fast search, double-click or hit `space` on the canvas and search for its name.
 
 ![](<../../.gitbook/assets/image (172).png>)
 
 ## 2. Basic Principles
 
-Composing algorithmic definitions are like writing a recipe for baking a cake: step by step, you describe the input ingredients, the instructions on how to process them, and you receive an output that you use for the next step. In Grasshopper, each instruction step is represented by a **component**. Likewise, a component consists of **input parameters**, **instructions** processing the input data, **output parameters**. The data is **inherited** between the output and input of components with **wires**. In this manner, Grasshopper definitions are composed.&#x20;
+Writing an algorithm is like writing the recipe for baking a cake: first, you describe the ingredients (input); then, the instructions on how to process them; finally, you get the result (output), which may be the final cake or just a processed ingredient that you may want to use for the next step of the recipe. In Grasshopper, each instruction step is represented by a component.&#x20;
+
+Likewise, a component consists of **input parameters**, **instructions** processing the input data, **output parameters**. The data is **inherited** between the output and input of components with **wires**. In this manner, Grasshopper definitions are composed.&#x20;
 
 ![](<../../.gitbook/assets/image (258).png>)
 
@@ -51,15 +51,15 @@ But before we get started, let's make sure, we have the same display settings: I
 
 ## 3. Maths Operators
 
-Grasshopper can serve in its very basic use as a **calculator** for simple math operations. These will become **crucial** as part of our GS Grasshopper definition later. These simple math operations include the `Addition`, `Subtraction`, `Multiplication` and `Division` component. Further important  components are the `Negative` and `Absolute` component to compute the negative and absolute value of a number, respectively. The number values can be input either with a `Panel`  component, that requires a manual change of the number or with a `Number Slider` component, that allows for a flexible modification.&#x20;
+We can use Grasshopper to execute basic math operations:  `Addition`, `Subtraction`, `Multiplication` and `Division`. Other important components are the `Negative` and `Absolute` components to compute the negative and absolute value of a number, respectively. The number values can be input either with a `Panel`  component, that requires a manual change of the number or with a `Number Slider` component, that allows for a flexible modification.&#x20;
 
 ![](<../../.gitbook/assets/Screenshot 2021-09-23 at 09.58.25.png>)
 
-Alternatively, input values can be selected from a **defined set**: The `boolean toggle` component allows to switch between True (=1) and False (=0), thus "turning a value on or off". With the `value list` component, you can set any desired values to switch between, e.g. Negative and Positive. (Compare options A and B.)
+The `boolean toggle` component allows to switch between True (=1) and False (=0), thus turning a value "on or off". With the `value list` component, you can set any desired values to switch between, e.g. Negative and Positive. (Compare options A and B.)
 
 ![](<../../.gitbook/assets/Screenshot 2021-09-23 at 09.59.29.png>)
 
-Mathematical operations can also be carried out with the `Expression` component: it allows to input a **function**, to **round** to a specified number of decimal digits, and many more. Some components also allow so modify the input with an expression directly with _**right-click on the input value > Expression**_.&#x20;
+Mathematical operations can also be carried out with the `Expression` component. This allows to input a function, to round to a specified number of decimal digits, and many more. Some components also allow to modify the input with an expression directly with right-click on the input value > Expression.&#x20;
 
 ![](<../../.gitbook/assets/Screenshot 2021-09-23 at 10.01.15.png>)
 

@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/CSD1\_2021\_lecture-1 (1).jpg>)
 
-In this first lecture, the participants will learn about:
+In this lecture, the following topics are presented:
 
 * Origins and evolution of graphic statics
 * The revival of graphic statics with computation
